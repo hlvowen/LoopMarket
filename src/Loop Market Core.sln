@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopMarket.Web", "LoopMarket.Web\LoopMarket.Web.csproj", "{441C2132-7568-4457-AD85-84F94DFA888E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopMarket.Application", "LoopMarket.Application\LoopMarket.Application.csproj", "{D156ED5D-3AF9-40E9-8DD7-49E67FB40281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopMarket.Domain", "LoopMarket.Domain\LoopMarket.Domain.csproj", "{33D5515D-3149-4A1A-BA2A-D1E7A30C865C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopMarket.Infrastructure", "LoopMarket.Infrastructure\LoopMarket.Infrastructure.csproj", "{A7608F1E-6D8A-46B3-933B-663256650899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441C2132-7568-4457-AD85-84F94DFA888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441C2132-7568-4457-AD85-84F94DFA888E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441C2132-7568-4457-AD85-84F94DFA888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441C2132-7568-4457-AD85-84F94DFA888E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D156ED5D-3AF9-40E9-8DD7-49E67FB40281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D156ED5D-3AF9-40E9-8DD7-49E67FB40281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D156ED5D-3AF9-40E9-8DD7-49E67FB40281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D156ED5D-3AF9-40E9-8DD7-49E67FB40281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D5515D-3149-4A1A-BA2A-D1E7A30C865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D5515D-3149-4A1A-BA2A-D1E7A30C865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D5515D-3149-4A1A-BA2A-D1E7A30C865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D5515D-3149-4A1A-BA2A-D1E7A30C865C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7608F1E-6D8A-46B3-933B-663256650899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7608F1E-6D8A-46B3-933B-663256650899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7608F1E-6D8A-46B3-933B-663256650899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7608F1E-6D8A-46B3-933B-663256650899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

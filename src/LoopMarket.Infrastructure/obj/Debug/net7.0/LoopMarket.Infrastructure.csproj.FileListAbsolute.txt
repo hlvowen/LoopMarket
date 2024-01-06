@@ -1,0 +1,17 @@
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/bin/Debug/net7.0/LoopMarket.Infrastructure.deps.json
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/bin/Debug/net7.0/LoopMarket.Infrastructure.dll
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/bin/Debug/net7.0/LoopMarket.Infrastructure.pdb
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/bin/Debug/net7.0/LoopMarket.Domain.dll
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/bin/Debug/net7.0/LoopMarket.Domain.pdb
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.csproj.AssemblyReference.cache
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.AssemblyInfoInputs.cache
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.AssemblyInfo.cs
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.csproj.CopyComplete
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.dll
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/refint/LoopMarket.Infrastructure.dll
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.pdb
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/ref/LoopMarket.Infrastructure.dll
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/bin/Debug/net7.0/LoopMarket.Infrastructure.runtimeconfig.json
+/Users/ovo/Desktop/Pro/Development/Projects/Csharp/Web Agency Core/LoopMarket.Infrastructure/obj/Debug/net7.0/LoopMarket.Infrastructure.genruntimeconfig.cache
